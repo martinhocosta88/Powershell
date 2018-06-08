@@ -64,4 +64,3 @@ function Merge-NAVVersionListString([string] $source,[string] $target,[VersionLi
   return $result;
 }
 
-#Merge-NAVVersionListString -source "NAVW17.10,NVR7.20.0001,AAAA8.55.666,KSC8.300" -target "NAVW17.10,NVR7.20.0003,NEW7.33.0000,KSC8.200" -mode TargetFirst

@@ -1,4 +1,4 @@
-#Instructionss
+#Instructions: The Objects must be all separated in 3 different folders. Modified, Target and Result
 param
 (
     [Parameter(Mandatory=$true)]
